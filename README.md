@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Maheshcheegiti
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Computer Science Engineering.
+- 🌱 I’m currently learning Javascripta and nodeJS.
+- 💻 I completed Data Science with Python and Webdevelopment Using HTML and CSS.
 - 💞️ I’m looking to collaborate on not decided yet
 - 📫 How to reach me you can send me email.
 
