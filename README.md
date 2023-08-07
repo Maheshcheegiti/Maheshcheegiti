@@ -17,7 +17,7 @@
 
 <p><img height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshcheegiti&show_icons=true&locale=en&layout=compact" alt="maheshcheegiti" /></p>
 
-<p>&nbsp;<img height="170" src="https://github-readme-stats.vercel.app/api?username=maheshcheegiti&show_icons=true&locale=en" alt="maheshcheegiti" /></p>
+<p>&nbsp;<img height="200" src="https://github-readme-stats.vercel.app/api?username=maheshcheegiti&show_icons=true&locale=en" alt="maheshcheegiti" /></p>
 <br>
 <h3>Connect with me:</h3>
 <p align="left">
