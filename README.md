@@ -9,6 +9,13 @@
   Hello there! I'm Mahesh Cheegiti
 </h1>
 
+<!-- portfolio link -->
+<p align="center">
+  <a href="https://cheegitimahesh.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaheshCheegiti&color=red" alt="Profile Views" />
   <a href="https://github.com/MaheshCheegiti">
@@ -59,6 +66,8 @@
   <img src="https://streak-stats.demolab.com?user=MaheshCheegiti&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%"/>
 </p>
 
+---
+
 ### 🐍 Contribution Snake
 
 <picture>
@@ -66,6 +75,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaheshCheegiti/MaheshCheegiti/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/MaheshCheegiti/MaheshCheegiti/output/github-contribution-grid-snake.svg">
 </picture>
+
 ---
 
 ## 🏆 Achievements
