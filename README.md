@@ -63,8 +63,8 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaheshCheegiti&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=MaheshCheegiti&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MaheshCheegiti&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=MaheshCheegiti&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%" height="160"/>
 </p>
 
 ---
