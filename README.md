@@ -59,8 +59,10 @@
   <img src="https://streak-stats.demolab.com?user=MaheshCheegiti&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%"/>
 </p>
 
+### 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaheshCheegiti&theme=tokyo-night" alt="Activity Graph" width="100%"/>
+  <img src="https://github.com/MaheshCheegiti/MaheshCheegiti/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
 
 ---
@@ -80,10 +82,10 @@
   <a href="https://github.com/MaheshCheegiti">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/MaheshCheegiti">
+  <a href="https://linkedin.com/in/cheegitimahesh">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:maheshcheegiti@gmail.com">
+  <a href="mailto:ramahesh024@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
