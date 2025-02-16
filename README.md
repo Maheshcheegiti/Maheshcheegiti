@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshcheegiti&label=Profile%20views&color=0e75b6&style=flat" alt="maheshcheegiti" /> </p>
 
+![Cheegiti Mahesh](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/trilokia.svg)
+
+
 - 🌱 I’m currently learning **Frontend and DSA Problems**
 
 - 👨‍💻 All of my projects are available at [https://maheshcheegiti.github.io/cheegitimahesh/](https://maheshcheegiti.github.io/cheegitimahesh/)
