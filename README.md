@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshcheegiti&label=Profile%20views&color=0e75b6&style=flat" alt="maheshcheegiti" /> </p>
 
-![Cheegiti Mahesh](https://raw.githubusercontent.com/Maheshcheegiti/Maheshcheegiti/blob/be1c0b47f50dad54fa02c9b4b52838435bb55628/assets/Cheegiti%20Mahesh%20Animated%20Text.gif)
+![Cheegiti Mahesh](assets/Cheegiti%20Mahesh%20Animated%20Text.gif)
 
 - 🌱 I’m currently learning **Frontend and DSA Problems**
 
